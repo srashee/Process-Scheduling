@@ -1,8 +1,5 @@
 #
 # PROGRAM:    scheduler
-# PROGRAMMER: Saad Rasheed
-# LOGON ID:   z1783832
-# DATE DUE:   10/13/2017
 #
 
 # Compiler variables
