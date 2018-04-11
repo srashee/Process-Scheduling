@@ -1,8 +1,4 @@
 /***************************************************************************
- * Name: Saad Rasheed
- * ZID:  z1763208
- * due date: October 13tj
- *
  * Notes:
  * simulating proirity scheduling of processes on a single-processor
  * system, without preemption.
@@ -10,7 +6,7 @@
  * highest-priority process that is waiting.
  *
  * ************************************************************************/
-#include "assign4.h"
+#include "scheduler.h"
 #include "process.h"
 
 #include <utility>
