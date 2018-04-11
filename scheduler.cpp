@@ -204,7 +204,7 @@ return 0;
 
 void readFile(){
 	ifstream file;
-	file.open("data4.txt");
+	file.open("data.txt");
 
 	if(file){
 		string lineString;
